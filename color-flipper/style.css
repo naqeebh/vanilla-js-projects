@@ -1,0 +1,24 @@
+#green-btn {
+    font-size: 3rem;
+    background-color: green;
+    border-radius: 5px;
+}
+
+#red-btn {
+    font-size: 3rem;
+    background-color: red;
+    border-radius: 5px;
+}
+
+#blue-btn {
+    font-size: 3rem;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#random-btn {
+    font-size: 3rem;
+    border-radius: 5px;
+}
+
+
