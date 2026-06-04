@@ -12,10 +12,18 @@
     border: 10px solid rgb(71, 219, 252);
 }
 
-.hidden-content-boxes {
+.hidden-content {
     margin-top: 100px;
 }
 
 .container-2 {
     display: flex;
+}
+
+.hidden-content {
+    display: none;
+}
+
+.hidden-content.reveal-btn {
+    display: block;
 }
