@@ -3,40 +3,51 @@
 
 
 
-// GetElementByID()
+// // GetElementByID()
 
-const title = document.getElementById('main-heading');
+// const title = document.getElementById('main-heading');
 
-console.log(title);
+// console.log(title);
 
 
-// // GetElementByClassName()
+// // // GetElementByClassName()
 
-const listItems =
-  document.getElementsByClassName('list-items')
+// const listItems =
+//   document.getElementsByClassName('list-items')
   
-  console.log(listItems);
+//   console.log(listItems);
 
 
-// GetElementByTagName()
+// // GetElementByTagName()
 
-const tagNames = document.getElementsByTagName('li');
+// const tagNames = document.getElementsByTagName('li');
 
-console.log(tagNames);
-
-
-// querySelector()
-
-const container = document.querySelector('div');
-
-console.log(container);
+// console.log(tagNames);
 
 
-// querySelectorAll()
+// // querySelector()
 
-const allDivs = document.querySelectorAll('div');
+// const container = document.querySelector('div');
 
-console.log(allDivs);
+// console.log(container);
+
+
+// // querySelectorAll()
+
+// const allDivs = document.querySelectorAll('div');
+
+// console.log(all);
+
+
+// Style property DOM manipulation
+
+const colour = document.querySelector('#sub-heading');
+
+colour.style.color = 'red';
+
+console.log(colour);
+
+
 
 
 
