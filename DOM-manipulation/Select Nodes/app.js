@@ -41,15 +41,22 @@
 
 // Style property DOM manipulation
 
-const colour = document.querySelector('#sub-heading');
+// const colour = document.querySelector('#sub-heading');
 
-colour.style.color = 'red';
+// colour.style.color = 'red';
 
-console.log(colour);
-
-
+// console.log(colour);
 
 
+// Styling Elements
+
+const listItems = document.querySelectorAll('.list-items');
+
+for (i = 0; i < listItems.length; i++) {
+    listItems[i].style.fontSize = '5rem';
+}
+
+console.log(listItems);
 
 
 
