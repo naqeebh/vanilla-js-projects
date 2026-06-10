@@ -37,4 +37,4 @@ Each project focuses on strengthening core programming concepts such as:
 
 More projects will be added as I continue learning and building.
 
-Built by NaqeebBuilt by Naqeeb.
+Built by Naqeeb.
